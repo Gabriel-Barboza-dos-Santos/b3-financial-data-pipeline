@@ -24,7 +24,7 @@ O projeto adota o princípio de separação de responsabilidades em arquitetura 
 
 4.Carga (`carga.py`): Conecta ao SQLite e aos dados na tabela unificada `cotacoes_b3`.
 
-5.Orquestrador (`main.py`): Gerencia a execução sequencial do fluxo via `subprocess`, com tratamento de codificação UTF-8 e medição de tempo de execução.
+5.Codigo chefe (`main.py`): Gerencia a execução sequencial do fluxo via `subprocess`, com tratamento de codificação UTF-8 e medição de tempo de execução.
 
 ---
 
