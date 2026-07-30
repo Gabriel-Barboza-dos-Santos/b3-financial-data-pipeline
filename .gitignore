@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Banco de dados e dados temporários
+*.db
+*.csv
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações de IDE
+.vscode/
+.idea/
